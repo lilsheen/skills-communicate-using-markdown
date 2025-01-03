@@ -8,4 +8,4 @@
 Added headers
 
 New Image added here
-![Image of a Blue Butterfly] (https://image7.photobiz.com/4648/17_20171230115853_7397315_large.png)
+![Image of a Blue Butterfly](https://image7.photobiz.com/4648/17_20171230115853_7397315_large.png)
